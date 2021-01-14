@@ -1,7 +1,0 @@
-firstname,lastname,totalprice,depositpaid,checkin,checkout,additionalneeds
-Rosa,Brown,100,true,2021-02-01,2021-02-01,Lunch
-Ana,Lagos,150,false,2021-02-01,2021-02-01,Dinner
-Luisa,Perez,200,true,2021-02-01,2021-02-01,Lunch
-Jose,Lopez,300,false,2021-02-01,2021-02-01,Breakfast
-Enrique,Solis,400,true,2021-02-01,2021-02-01,Dinner
-Enrique,Solis,400,true,2021-02-01,2021-02-01,Dinner
